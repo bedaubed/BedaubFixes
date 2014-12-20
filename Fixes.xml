@@ -1,0 +1,41 @@
+Bedaub Directory = special://home/addons/plugin.video.bedaub/resources/libs/
+Bedaub SubDir= adventure, documentaries, international, kids, live, movies_tv, plugins,sports 
+
+UrlResolver Dir = special://home/addons/script.module.urlresolver/lib/urlresolver/
+############################################################################################################################
+##################################################################################################################################
+thumbnails= plugins,urlresolver
+######################################################################################################################################
+
+<item>
+name>[COLOR red] Date: 7/19/2013[/COLOR]</name>
+<filename></filename>
+<location></location>
+<path></path>
+<thumbnail></thumbnail>
+</item>
+
+##################################################################################################################################
+
+
+<item>
+<name>[COLOR yellow]Failed Update FIX (AutoUpdate FIX)[/COLOR][COLOR aqua]Part 1 Run first[/COLOR][COLOR red] Date:8/10/2014[/COLOR]</name>
+<filename>changelog.py</filename>
+<location>special://home/addons/plugin.video.bedaub/resources/</location>
+<path>libs</path>
+<thumbnail>plugins</thumbnail>
+</item>
+
+<item>
+<name>[COLOR yellow]Failed Update FIX (AutoUpdate FIX)[/COLOR][COLOR aqua]Part 2[/COLOR] [COLOR orange]restart Bedaub when done[/COLOR][COLOR red] Date:8/10/2014[/COLOR]</name>
+<filename>default.py</filename>
+<location>special://home/addons/</location>
+<path>plugin.video.bedaub</path>
+<thumbnail>plugins</thumbnail>
+</item>
+
+
+
+
+
+
